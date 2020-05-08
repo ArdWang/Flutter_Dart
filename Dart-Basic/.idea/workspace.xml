@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9570839-43c7-4345-be60-a9d69a20e5a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter9/lesson2.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lesson3.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lesson4.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lesson5.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lesson6.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lib/Animal.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/lib/Person.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/lesson6.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9/lesson1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9/lesson1.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,41 +55,51 @@
     <session id="1796278993">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="dart" value="11" />
+          <entry key="dart" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dart" value="11" />
+          <entry key="Dart" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="2294" />
+          <entry key="dart" value="3961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="2294" />
+          <entry key="Dart" value="3961" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter9/lesson6.dart">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter10/lesson5.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter10/lesson6.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -153,6 +161,13 @@
         <option value="$PROJECT_DIR$/chapter9/lib/Animal.dart" />
         <option value="$PROJECT_DIR$/chapter9/lesson5.dart" />
         <option value="$PROJECT_DIR$/chapter9/lesson6.dart" />
+        <option value="$PROJECT_DIR$/chapter9/lesson7.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson1.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson2.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson3.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson4.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson5.dart" />
+        <option value="$PROJECT_DIR$/chapter10/lesson6.dart" />
       </list>
     </option>
   </component>
@@ -163,8 +178,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="861" />
-    <option name="y" value="23" />
+    <option name="x" value="844" />
+    <option name="y" value="34" />
     <option name="width" value="1055" />
     <option name="height" value="938" />
   </component>
@@ -186,7 +201,7 @@
             <path>
               <item name="Dart-Basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dart-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.lesson7.dart">
+  <component name="RunManager" selected="Dart Command Line App.lesson6.dart">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -255,28 +270,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson3.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter9/lesson3.dart" />
+    <configuration name="lesson1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter10/lesson1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson4.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter9/lesson4.dart" />
+    <configuration name="lesson2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter10/lesson2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson5.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter9/lesson5.dart" />
+    <configuration name="lesson3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter10/lesson3.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson4.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter10/lesson4.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="lesson6.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter9/lesson6.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson7.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter9/lesson7.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/chapter10/lesson6.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -290,19 +305,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.lesson3.dart (1)" />
-      <item itemvalue="Dart Command Line App.lesson4.dart (1)" />
-      <item itemvalue="Dart Command Line App.lesson5.dart" />
+      <item itemvalue="Dart Command Line App.lesson1.dart" />
+      <item itemvalue="Dart Command Line App.lesson2.dart" />
+      <item itemvalue="Dart Command Line App.lesson3.dart" />
+      <item itemvalue="Dart Command Line App.lesson4.dart" />
       <item itemvalue="Dart Command Line App.lesson6.dart" />
-      <item itemvalue="Dart Command Line App.lesson7.dart" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.lesson7.dart" />
         <item itemvalue="Dart Command Line App.lesson6.dart" />
-        <item itemvalue="Dart Command Line App.lesson5.dart" />
-        <item itemvalue="Dart Command Line App.lesson4.dart (1)" />
-        <item itemvalue="Dart Command Line App.lesson3.dart (1)" />
+        <item itemvalue="Dart Command Line App.lesson4.dart" />
+        <item itemvalue="Dart Command Line App.lesson3.dart" />
+        <item itemvalue="Dart Command Line App.lesson2.dart" />
+        <item itemvalue="Dart Command Line App.lesson1.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -336,10 +351,10 @@
     <option name="totallyTimeSpent" value="12409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="861" y="23" width="1055" height="938" extended-state="0" />
+    <frame x="844" y="34" width="1055" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35477388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36180905" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,19 +394,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/main.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/bs.js" />
     <entry file="file://$PROJECT_DIR$/chapter1/test.dart">
       <provider selected="true" editor-type-id="text-editor" />
@@ -683,10 +685,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9/lesson7.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter9/lesson6.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="467">
+          <caret line="35" column="1" selection-start-line="16" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson1.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="18" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson2.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson3.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson4.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson5.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter10/lesson6.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
         </state>
       </provider>
     </entry>
